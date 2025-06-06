@@ -1,0 +1,12 @@
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks.c:89:13:MCboot	16	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks.c:250:13:TSK_SetChargeBootCapDelayM1	0	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks.c:261:13:TSK_ChargeBootCapDelayHasElapsedM1	0	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks.c:277:13:TSK_SetStopPermanencyTimeM1	0	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks.c:288:13:TSK_StopPermanencyTimeHasElapsedM1	0	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks.c:314:16:TSK_HighFrequencyTask	8	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks.c:374:13:TSK_SafetyTask_PWMOFF	24	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks.c:349:13:TSK_SafetyTask	8	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks.c:160:13:MC_RunMotorControlTasks	16	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks.c:439:13:TSK_HardwareFaultTask	8	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks.c:452:13:UI_HandleStartStopButton_cb	8	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks.c:470:13:mc_lock_pins	80	static

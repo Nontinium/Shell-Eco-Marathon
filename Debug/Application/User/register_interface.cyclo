@@ -1,0 +1,7 @@
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/register_interface.c:32:9:RI_SetRegisterGlobal	17
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/register_interface.c:166:9:RI_SetRegisterMotor1	82
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/register_interface.c:585:9:RI_GetRegisterGlobal	23
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/register_interface.c:756:11:RI_GetRegisterMotor1	102
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/register_interface.c:1321:9:RI_MovString	4
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/register_interface.c:1347:9:RI_GetIDSize	2
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/register_interface.c:1382:16:RI_GetPtrReg	24

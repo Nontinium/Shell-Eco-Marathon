@@ -1,0 +1,6 @@
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/hall_speed_pos_fdbk.c:91:13:HALL_Init	12	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/hall_speed_pos_fdbk.c:199:13:HALL_Clear	16	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/hall_speed_pos_fdbk.c:265:16:HALL_CalcElAngle	12	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/hall_speed_pos_fdbk.c:330:13:HALL_CalcAvrgMecSpeedUnit	16	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/hall_speed_pos_fdbk.c:419:14:HALL_TIMx_CC_IRQHandler	24	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/hall_speed_pos_fdbk.c:763:14:HALL_TIMx_UP_IRQHandler	16	static

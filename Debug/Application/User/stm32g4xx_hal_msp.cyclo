@@ -1,0 +1,12 @@
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_hal_msp.c:68:6:HAL_MspInit	1
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_hal_msp.c:100:6:HAL_ADC_MspInit	13
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_hal_msp.c:259:6:HAL_ADC_MspDeInit	9
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_hal_msp.c:374:6:HAL_CORDIC_MspInit	2
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_hal_msp.c:397:6:HAL_CORDIC_MspDeInit	2
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_hal_msp.c:419:6:HAL_TIM_PWM_MspInit	2
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_hal_msp.c:455:6:HAL_TIM_Base_MspInit	2
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_hal_msp.c:495:6:HAL_TIM_MspPostInit	2
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_hal_msp.c:540:6:HAL_TIM_PWM_MspDeInit	2
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_hal_msp.c:580:6:HAL_TIM_Base_MspDeInit	2
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_hal_msp.c:614:6:HAL_UART_MspInit	5
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_hal_msp.c:697:6:HAL_UART_MspDeInit	2

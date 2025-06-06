@@ -1,0 +1,4 @@
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_mc_it.c:72:6:ADC1_2_IRQHandler	1
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_mc_it.c:97:6:TIM2_IRQHandler	3
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_mc_it.c:149:6:TIM1_UP_TIM16_IRQHandler	1
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/stm32g4xx_mc_it.c:163:6:TIM1_BRK_TIM15_IRQHandler	3

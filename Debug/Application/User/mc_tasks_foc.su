@@ -1,0 +1,7 @@
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks_foc.c:374:13:FOC_Clear	16	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks_foc.c:81:13:FOC_Init	24	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks_foc.c:155:6:TSK_MF_StopProcessing	8	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks_foc.c:411:13:FOC_InitAdditionalMethods	0	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks_foc.c:434:13:FOC_CalcCurrRef	24	static,ignoring_inline_asm
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks_foc.c:173:13:TSK_MediumFrequencyTaskM1	24	static
+C:/Users/malbo/Desktop/High power board/1000W_20A_RUN/440W_HallSensor_01_09_25/Mostafa_P/Mostafa_P_4/autonomous v101 20khz/Src/mc_tasks_foc.c:489:16:FOC_HighFrequencyTask	56	static
